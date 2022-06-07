@@ -5,10 +5,6 @@
 
 
 S급 백엔드 개발자를 꿈꾸는 비타민찌 🚀 <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjipi&show_icons=true&theme=ayu-mirage)
-
-
-
 
 ----
 
@@ -25,10 +21,10 @@ S급 백엔드 개발자를 꿈꾸는 비타민찌 🚀 <br/><br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 
-![Eunsu's github stats](https://github-readme-stats.vercel.app/api?username=eunsukimme&count_private=true&show_icons=true)
+![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjipi&show_icons=true&theme=ayu-mirage)
 
 ---
 
 Outside of Github, You can find me below:
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-00AD9F?style=flat-square&logo=netlify&link=https://eunsukim.me)](https://blog.eunsukim.me) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eunsukimme/)](https://www.linkedin.com/in/eunsukimme/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003647254099)](https://www.facebook.com/profile.php?id=100003647254099) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eunsu_wag/)](https://www.instagram.com/eunsu_wag/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-00AD9F?style=flat-square&logo=netlify&link=https://eunsukim.me)](https://blog.eunsukim.me) (https://www.linkedin.com/in/eunsukimme/) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eunsu_wag/)](https://www.instagram.com/eunsu_wag/)
